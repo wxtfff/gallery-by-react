@@ -1,0 +1,32 @@
+/* Base Application Styles */
+html,body,#app,.stage{
+    height: 100%;
+    width: 100%;
+}
+body {
+  color: #fff;
+  background: #222;
+}
+.stage{
+  background: #eee;
+}
+
+.index img {
+  margin: 40px auto;
+  border-radius: 4px;
+  background: #fff;
+  display: block;
+}
+
+.index .notice {
+  margin: 20px auto;
+  padding: 15px 0;
+  text-align: center;
+  border: 1px solid #000;
+  border-width: 1px 0;
+  background: #666;
+}
+
+.stage{
+
+}
